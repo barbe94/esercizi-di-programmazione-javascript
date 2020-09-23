@@ -17,4 +17,10 @@
 
   http://www.imparareaprogrammare.it
 */
-var cats = 44;
+
+
+var gatti = 5;
+var inFila = 2;
+var filetot =  math.ceil(gatti/inFila);
+var mancanti = (filetot*inFila-gatti);
+console.log('$(gatti) gatti in fila per $(inFila) si unirono compatti in $(filetot) file. Nell ultima fila rimasero $(mancanti) posti gatto disponibili');
