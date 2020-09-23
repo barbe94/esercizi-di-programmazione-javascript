@@ -11,3 +11,8 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var anno = 2020;
+var nascita = 1950;
+var cento = 100;
+console.log('cento - ('anno - nascita')');
