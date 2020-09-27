@@ -12,9 +12,3 @@
 
   http://www.imparareaprogrammare.it
 */
-
-var seconditot = 13712;
-var ore = 3600;
-var minuti = 60;
-var secondi = 60;
-console.log('('('seconditot/ore')/minuti')/secondi');
